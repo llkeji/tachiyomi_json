@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Tachiyomi: Kavita",
+    "pkg": "eu.kanade.tachiyomi.extension.all.kavita",
+    "apk": "tachiyomi-all.kavita-v1.4.13.apk",
+    "lang": "all",
+    "code": 13,
+    "version": "1.4.13",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "oDa漫畫",
+        "lang": "all",
+        "id": "7266875667263635239",
+        "baseUrl": "https://godamanga.site",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "嗨皮漫画",
+        "lang": "all",
+        "id": "3764816291200082561",
+        "baseUrl": "https://m.happymh.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  }
+]
